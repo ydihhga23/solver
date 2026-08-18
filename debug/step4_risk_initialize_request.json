@@ -1,0 +1,14 @@
+{
+  "url": "https://login.microsoftonline.com/9188040d-6c67-4c5b-b112-36a304b66dad/api/v1.0/risk/initialize",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json; charset=utf-8",
+    "client-request-id": "34a198bf098a4bc4b0a670b99f69aaab",
+    "canary": "<redacted>",
+    "hpgid": "200202",
+    "hpgact": "0"
+  },
+  "payload": {
+    "continuationToken": ""
+  }
+}

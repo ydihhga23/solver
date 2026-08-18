@@ -1,0 +1,21 @@
+{
+  "Cache-Control": "no-store, no-cache",
+  "Pragma": "no-cache",
+  "Content-Type": "application/json; charset=utf-8",
+  "Expires": "-1",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+  "X-Content-Type-Options": "nosniff",
+  "P3P": "CP=\"DSP CUR OTPi IND OTRi ONL FIN\"",
+  "client-request-id": "34a198bf-098a-4bc4-b0a6-70b99f69aaab",
+  "x-ms-request-id": "0f15402e-2bd7-4501-a20c-03b58a355b01",
+  "x-ms-ests-server": "2.1.25096.7 - EUS ProdSlices",
+  "report-to": "{\"group\":\"network-errors\",\"max_age\":86400,\"endpoints\":[{\"url\":\"https://identity.nel.measure.office.net/api/report?catId=GW+estsfd+san\"}]}",
+  "nel": "{\"report_to\":\"network-errors\",\"max_age\":86400,\"success_fraction\":0.001,\"failure_fraction\":1.0}",
+  "x-ms-srs": "1.P",
+  "Referrer-Policy": "strict-origin-when-cross-origin",
+  "Content-Security-Policy-Report-Only": "object-src 'none'; base-uri 'self'; script-src 'self' 'nonce-P5pB0DxNBlL_tRVeBt-AUw' 'unsafe-inline' 'unsafe-eval' https://*.msauth.net https://*.msftauth.net https://*.msftauthimages.net https://*.msauthimages.net https://*.msidentity.com https://*.microsoftonline-p.com https://*.microsoftazuread-sso.com https://*.azureedge.net https://*.outlook.com https://*.office.com https://*.office365.com https://*.microsoft.com https://*.bing.com 'report-sample'; report-uri https://csp.microsoft.com/report/ESTS-UX-All",
+  "X-XSS-Protection": "0",
+  "Set-Cookie": "fpc=ApD9lauuFNpJi7tnVhHEHH4; expires=Thu, 17-Sep-2026 13:56:28 GMT; path=/; secure; HttpOnly; SameSite=None, esctx=PBgABBwEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzDQAAAAAA1dR1Z6etRzqFS2-HnsvVRfjv-G4rTBWQMXtoL4lG02HTtG7bMPl_sD-g110HKCyl1UuiAamAuBj2UvsHUbS1L-Izx-BIHB9xH-rdW5pNNkwwGhlDlu3z5aXQQPomtJn2RCxp3tDNevexPdkz8lLfyLoqyb7gS1zcAEMyQZGOpYEraKR7Ufoh52_-u-jV94g4B0dvhLnQZGrusBfhN3uMT1N7Abkmx1ad50LXOequViUsEgiJRyvuFVZReeCcRjY5Kc9atOXY1Rft2473Pd2NOzaRAdekenQit7TzXKPpT_HIMElKSu9SLguuji-PyMXa3ntZ86XC_T8aLVSrc_oyZ3PjYO2BTqCUwZ5jB5cyPJzOljVViC1cIsU9UfLqn77WnTidkfSVicEdmyxfbTWz5EYBJTNPkkmITrONl2m_aSHXj0TwxjvPPRVk_xKQxEExVrThahy3tnzI5_ik_mHurO2XA5l_6qSnGyTnLxRyrLzybGIblSbkQj329LVt6ol8xDQ0s25S66rx4I4eW5i-qVZeWcvqxFHwHi5gmbbauuQaqKKudHHARvoSIUrd6FHVUEBaY_aW1bODZ3OZt1c-dwwKrrkq8tmtxaBZASRGz3ahTZDhtvG3X9_87sKIrGLEJVg2hrMa-nObSMZKMPwbQqBi4VqwczTu1Cu2k6z18zkYxoh9HhnwxAieJyOUeSwqKVThAYnGurE1ONSdCB65lJZls2bTxXZqMEuDeWSGYykgAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly; SameSite=None, x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly, stsservicecookie=estsfd; path=/; secure; samesite=none; httponly",
+  "Date": "Tue, 18 Aug 2026 13:56:27 GMT",
+  "Content-Length": "749"
+}

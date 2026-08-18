@@ -1,0 +1,31 @@
+{
+  "url": "https://signup.live.com/API/CheckAvailableSigninNames",
+  "params": {
+    "sru": "https://login.live.com/oauth20_authorize.srf?lc=2052&client_id=9199bf20-a13f-4107-85dc-02114787ef48&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c&mkt=ZH-CN&opid=7B88AF11&opidt=0&uaid=34a198bf098a4bc4b0a670b99f69aaab&contextid=949BC011FA634145",
+    "mkt": "ZH-CN",
+    "uiflavor": "web",
+    "fl": "dob,flname,wld",
+    "cobrandid": "ab0455a0-8d03-46b9-b18b-df2f57b9e44c",
+    "client_id": "9199bf20-a13f-4107-85dc-02114787ef48",
+    "uaid": "34a198bf098a4bc4b0a670b99f69aaab",
+    "suc": "9199bf20-a13f-4107-85dc-02114787ef48",
+    "fluent": "2",
+    "lic": "1"
+  },
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json; charset=utf-8",
+    "client-request-id": "34a198bf098a4bc4b0a670b99f69aaab",
+    "hpgid": "200225",
+    "hpgact": "0",
+    "canary": "<redacted>"
+  },
+  "payload": {
+    "includeSuggestions": true,
+    "signInName": "t5es2txyz98l765@outlook.com",
+    "uiflvr": 1001,
+    "scid": 100118,
+    "hpgid": 200225,
+    "uaid": "34a198bf098a4bc4b0a670b99f69aaab"
+  }
+}

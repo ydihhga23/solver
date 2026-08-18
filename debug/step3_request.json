@@ -1,0 +1,35 @@
+{
+  "url": "https://signup.live.com/API/CreateAccount",
+  "params": {
+    "lic": "1"
+  },
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/json; charset=utf-8",
+    "client-request-id": "34a198bf098a4bc4b0a670b99f69aaab",
+    "hpgid": "200225",
+    "hpgact": "0",
+    "canary": "<redacted>"
+  },
+  "payload": {
+    "Country": "US",
+    "CountryBirthdate": "US:1995:5:15",
+    "EncExtra": null,
+    "FirstName": "Alex",
+    "LastName": "Smith",
+    "Password": "<redacted>",
+    "SignInName": "t5es2txyz98l765@outlook.com",
+    "TokenFlow": null,
+    "VerificationCode": null,
+    "anid": null,
+    "canary": "rT+aOKbULjQL/Ph0JFt+URZhAMUR+utv6qldS7+U3VbR7yqqm6BNFN5k5sMBiLzWl40QmghpVkqIrRTspgeMNTVzVY4JzRCpsutCP0Flw+36fSoKXtfpsNOQ5cUG5V9lMP0yoFKtGj94zef7jfwGQFtJbv91POlvIPbwsNOBEGHQFtTYcFryCLq0JoaDWNZjNl9Xk+b3hvq5VIrNr0tt2urPGmKOTPwwbx6NIGOJnoMn5AaNcPmySo1RR1+usNAw:2:3c",
+    "confirmMemberName": null,
+    "encAttemptToken": null,
+    "hpgid": 200225,
+    "isChildAccountCreation": false,
+    "isFamily": false,
+    "scid": 100118,
+    "uaid": "34a198bf098a4bc4b0a670b99f69aaab",
+    "uiflvr": 1001
+  }
+}
